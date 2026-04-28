@@ -8,6 +8,7 @@ import java.util.*;
 import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
+
 /**
  * PAPERS, PLEASE — Java Pixel Art Edition
  * Compile: javac PapersPlease.java
